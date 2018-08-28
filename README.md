@@ -5,7 +5,7 @@ August 29, 2018*
 
 __Overview:__
 
-This repository houses materials associated with the SLC PyLadies "Intro to Machine Learning" meetup and is intended to provide an introductory overview of machine learning.  
+This repository houses materials associated with the SLC PyLadies "Intro to Machine Learning" meetup and is intended to provide you with an introductory overview of machine learning.  
 
 Two supervised learning tutorials are provided: one regression and one classification.  Both were done using [red wine quality data from the UCI Machine Learning Library](https://archive.ics.uci.edu/ml/datasets/Wine+Quality).  White wine data is also provided for those who wish to test out the models using a different data set.  
 
