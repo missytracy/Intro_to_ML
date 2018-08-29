@@ -29,7 +29,7 @@ Packages can be installed individually or using [Anaconda](https://www.anaconda.
 __Contents:__
 
 1. Regression Tutorial (Notebook) - detailed text commentary
-2. Regression Presentation (Notebook) - shortened version of tutorial for presentation purposes
+2. Regression Presentation (Notebook) - same data, less text for presentation purposes
 3. Classification Tutorial (Notebook) - detailed text commentary
-4. Classification Presentation (Notebook) - shortened version of tutorial for presenation purposes 
-5. Intro to ML (Powerpoint Presentation)
+4. Classification Presentation (Notebook) - same data, less text for presenation purposes 
+5. Intro to Machine Learning (Google Slides) - *COMING SOON!*
