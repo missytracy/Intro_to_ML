@@ -14,7 +14,7 @@ The objective in the regression tutorial is to predict the __quality__ score of 
 
 __Getting Started:__
 
-To run the provided notebooks, you'll need to get setup with the following:
+To run the sample notebooks, you'll need to get setup with the following:
 * [Python](https://www.python.org/downloads/)
 * [NumPy](https://docs.scipy.org/doc/numpy/user/install.html)
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
