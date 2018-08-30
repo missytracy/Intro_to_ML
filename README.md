@@ -32,4 +32,4 @@ __Contents:__
 2. Regression Presentation (Notebook) - same data, less text for presentation purposes
 3. Classification Tutorial (Notebook) - detailed text commentary
 4. Classification Presentation (Notebook) - same data, less text for presenation purposes 
-5. Intro to Machine Learning (Google Slides) - *COMING SOON!*
+5. Intro to Machine Learning (PowerPoint)
